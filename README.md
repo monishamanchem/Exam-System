@@ -38,16 +38,22 @@ The platform supports secure user login/registration, real-time examination with
 
 
 Online_exam/
-├── LoginPage.java
-├── ExamPage.java
+├── AddQuestionDialog.java
 ├── AdminDashboard.java
-├── ViewResultsPage.java
-├── UserService.java
-├── QuestionBank.java
+├── AllResultsPage.java
 ├── DBConnection.java
-├── model/
-│ ├── Question.java
-│ └── User.java
+├── ExamPage.java
+├── LoginPage.java
+├── Question.java
+├── QuestionBank.java
+├── QuestionDAO.java
+├── User.java
+├── UserService.java
+├── ViewResultsPage.java
+├── README.md
+└── lib/
+    └── mysql-connector-j-9.4.0.jar
+
 
 
 ---
